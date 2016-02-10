@@ -27,7 +27,7 @@ Known modes are:
 * taglist
 * bufferlist
 
-Have a look at `the urwid User Input documentation <http://excess.org/urwid/wiki/UserInput>`_ on how key strings are formatted.
+Have a look at `the urwid User Input documentation <http://urwid.org/manual/userinput.html>`_ on how key strings are formatted.
 
 .. _config.key-bingings.defaults:
 
